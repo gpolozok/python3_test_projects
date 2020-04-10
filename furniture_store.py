@@ -1,4 +1,4 @@
-# Test project 1. Furniture store called Lovely Loveseats for Neat Suites on Fleet Street.
+# Furniture store called Lovely Loveseats for Neat Suites on Fleet Street.
 
 # First item description
 lovely_loveseat_description = '''
